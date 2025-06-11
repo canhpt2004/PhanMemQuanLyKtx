@@ -14,8 +14,7 @@ PhanMemQuanLyKtx là một ứng dụng C# được phát triển nhằm hỗ tr
 ## Công Nghệ Sử Dụng
 
 - **Ngôn ngữ:** C#
-- **Framework:** (Vui lòng bổ sung, ví dụ .NET Framework, .NET Core, WinForms, WPF, ASP.NET, v.v.)
-- **Cơ sở dữ liệu:** (Vui lòng bổ sung, ví dụ SQL Server, SQLite, MySQL, v.v.)
+- **Cơ sở dữ liệu:** MySQL
 - **Thư viện/Hỗ trợ khác:** (Liệt kê nếu có)
 
 ## Hướng Dẫn Cài Đặt
